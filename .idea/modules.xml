@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARRAYLIST/ARRAYLIST.iml" filepath="$PROJECT_DIR$/ARRAYLIST/ARRAYLIST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary search/Binary search.iml" filepath="$PROJECT_DIR$/Binary search/Binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/HASHMAP/HASHMAP.iml" filepath="$PROJECT_DIR$/HASHMAP/HASHMAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hash_set/Hashser.iml" filepath="$PROJECT_DIR$/Hash_set/Hashser.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Linked_List.iml" />

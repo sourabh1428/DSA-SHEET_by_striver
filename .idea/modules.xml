@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYLIST/ARRAYLIST.iml" filepath="$PROJECT_DIR$/ARRAYLIST/ARRAYLIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary search/Binary search.iml" filepath="$PROJECT_DIR$/Binary search/Binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HASHMAP/HASHMAP.iml" filepath="$PROJECT_DIR$/HASHMAP/HASHMAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash_set/Hashser.iml" filepath="$PROJECT_DIR$/Hash_set/Hashser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prwactise_Strivers.iml" filepath="$PROJECT_DIR$/Prwactise_Strivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
